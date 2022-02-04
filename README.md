@@ -21,9 +21,17 @@ input parameters. Also, give the time complexity of your dynamic programming sol
 Show your work.
 
 5. In your main function:
+
 a. Show that the greedy algorithm does not solve this problem optimally.
 
 b. Run each of the recursive and dynamic functions with three different input sizes and 
 compute the actual running times (in milliseconds or seconds) of these three 
 algorithms. You will need to calculate the time passed before and after making a call 
 to each function. Provide a 2x3 table involving the actual running times
+
+Note: 
+
+For the detailed report see `algo-assignment-report02.pdf`
+
+And for the code itself see `MinTotalWeightPath.java`
+
