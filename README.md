@@ -1,0 +1,2 @@
+# MinTotalWeightPath
+We are given a COMPLETE BİNARY TREE where nodes and edges have positive weights. Node  weights are stored in a 1-dimensional array WN. Edge weights are stored in a 2-dimensional array  WE where 0 denotes no edge. Starting at the root of the tree and moving to either one of the children from the current node, the goal is to find the minimum total weight (i.e. sum of node and edge weights) path from the root to  any one of the leaves.
